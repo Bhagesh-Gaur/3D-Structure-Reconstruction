@@ -49,7 +49,7 @@ to assess its performance.
      the command would look like 'python main.py tower'.
   5. The reconstructed 3D structure would be saved in a .ply file named 'reconstruction.py'. This file would be
      saved in a folder in the 'res' directory named same as the input structure(eg: tower). This folder will 
-     also contain reconstruction error plot(plot.png) and the pose array in the file 'pose_array.csv'.
+     also contain the reconstruction error plot(plot.png) and the pose array in the file 'pose_array.csv'.
 ```
 
 
