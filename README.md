@@ -36,7 +36,7 @@ to assess its performance.
 
 ## How to run?? 
 ```
-  1. Create the conda environment on your system using the ** environment.yml ** file using the following command:
+  1. Create the conda environment on your system using the **environment.yml** file using the following command:
       ```
         conda env create -f environment.yml
       ```
