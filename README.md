@@ -1,7 +1,5 @@
 # 3D-Structure-Reconstruction
 ## <a href = "https://www.youtube.com/watch?v=asmdsp42GHo">Link</a> for the demo.
-## Pipeline
-![System Pipeline](Pipeline.png)
 ## Motivation
 * 3D scene representation is a challenging and ongoing research area in
 computer vision, with numerous techniques proposed, from traditional image
@@ -36,7 +34,10 @@ clouds of objects.
 * The proposed method is evaluated using specific 3D reconstruction datasets
 to assess its performance.
 
-## How to run?? 
+## Pipeline
+![System Pipeline](Pipeline.png)
+
+## How to run?
 ```
   1. Create the conda environment on your system using the 'environment.yml' file using the following command:
      'conda env create -f environment.yml'.
