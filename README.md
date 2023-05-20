@@ -42,8 +42,11 @@ to assess its performance.
   3. In this folder, add the images of the 3D stucture such that all the images are in an iterative manner 
      as if the camera is moving around the structure in 360 degree with each pair sharing key points and 
      are captured by the same camera.
-  3. Add the project files to the src folder.
-  4. Now run the project using CoWin as the main class.
+  3. Now, add the intrinsic camera matrix of your calibrated camera in txt file named 'K.txt' and place it in 
+     the same stucture name folder(eg: tower) along with images.
+  4. Now, activate the conda environment and run the command 'python main.py folder_name'. Here, we are 
+     passing the name of our structure folder(eg: tower) as the command line input. So, in our example case 
+     the command would look like 'python main.py tower'.
 ```
 
 
