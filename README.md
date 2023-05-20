@@ -36,7 +36,7 @@ to assess its performance.
 
 ## How to run?? 
 ```
-  1. Create the conda environment on your system using the *** environment.yml *** file using the following command: 
+  1. Create the conda environment on your system using the ** environment.yml ** file using the following command: 
   2. Setup a project after installing JDK 16(prefered) or above.
   3. Add the project files to the src folder.
   4. Now run the project using CoWin as the main class.
