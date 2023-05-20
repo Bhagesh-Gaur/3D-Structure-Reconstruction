@@ -37,7 +37,7 @@ to assess its performance.
 ## How to run?? 
 ```
   1. Create the conda environment on your system using the 'environment.yml' file using the following command:
-      conda env create -f environment.yml
+     'conda env create -f environment.yml'.
   2. Make a folder with the name of structure to be reconstructed(eg: tower) in the Datasets folder.
   3. In this folder, add the images of the 3D stucture such that all the images are in an iterative manner 
      as if the camera is moving around the structure in 360 degree with each pair sharing key points and 
